@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "get-pixels": "^3.3.2"
+  }
+}
